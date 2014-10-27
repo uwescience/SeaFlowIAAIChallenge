@@ -29,4 +29,4 @@ Integer labeled particles can be ignored for testing goodness of a classifier.
 
 The data as raw text is roughly 5GB; it can be downloaded here:
 
-http://rest.myria.cs.washington.edu:1776/dataset/user-hyrkas/program-iaai/relation-sample_cruises/data?format=csv
+https://rest.myria.cs.washington.edu:1776/dataset/user-hyrkas/program-iaai/relation-sample_cruises/data?format=csv
